@@ -1,0 +1,1 @@
+export const suffix = process.env.NODE_ENV === "development" ? "" : ".html"
