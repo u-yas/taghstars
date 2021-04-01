@@ -7,6 +7,6 @@
 - Develop with next.js(static generate)
 
 - You can import the exported data from [astralspp](https://app.astralapp.com/).
-- 
+
 ## ★★Now Development★★
 
