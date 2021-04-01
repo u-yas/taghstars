@@ -4,5 +4,5 @@
 
 - Develop with next.js(static generate)
 
-- You can import the exported data from [astralspp]("https://app.astralapp.com/").
+- You can import the exported data from [astralspp](https://app.astralapp.com/).
 ### <span style="color:#02c39a">★★★★</span>Now Development. Not released<span style="color:#02c39a">★★★★</span>
