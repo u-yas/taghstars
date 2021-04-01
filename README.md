@@ -1,5 +1,5 @@
 ## ★★Now Development★★
-## ★★Not released★★
+
 
 ### What is this?
 - Tag the GitHub Repository that you ster. Then display the tagged Repository in Kanban format on Chrome or Firefox extensions.
@@ -9,4 +9,4 @@
 - You can import the exported data from [astralspp](https://app.astralapp.com/).
 - 
 ## ★★Now Development★★
-## ★★Not released★★
+
