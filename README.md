@@ -2,7 +2,7 @@
 
 
 ### What is this?
-- Tag the GitHub Repository that you ster. Then display the tagged Repository in Kanban format on Chrome or Firefox extensions.
+- Tag the GitHub Repository you star. Then display the tagged Repository in Kanban format on Chrome or Firefox extensions.
 
 - Develop with next.js(static generate)
 
