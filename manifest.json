@@ -7,6 +7,12 @@
     "default_title": "view your tagged stars"
   },
   "options_page": "options.html",
+  "contents_scripts": [
+    {
+      "matches":["https://github.com/*/*"],
+      "js": ["content_scripts.js"]
+    }
+  ],
   "icons": {
     "16": "logo-small.png",
     "48": "logo-small.png",
